@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="/SWDesign/src/main/java"/>
-	<classpathentry kind="src" path="/SWDesign/src/test/java"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/junit-4.11"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hamcrest-core-1.3"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
